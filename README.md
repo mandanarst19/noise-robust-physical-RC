@@ -1,10 +1,6 @@
 # Noise-Robust Physical Reservoir Computing
 
-**Universal Scaling Laws, Architecture Design, and Homeostatic Adaptation**
 
-PhD Research Proposal Code — Mandana Roosta  
-MSc Physics, Shahid Beheshti University  
-Applying: Politecnico di Milano — Computer Science and Engineering
 
 ---
 
